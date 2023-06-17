@@ -8,33 +8,45 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What does calling super do in a Ruby class?
 
-Your answer:
+Your answer: It is passed along with the invoked method.
 
-Researched answer:
+Researched answer: The INITIALIZE method INVOKE with an argument.
 
 2. What is a gem?
 
-Your answer:
+Your answer: 
 
-Researched answer:
+A gem is a package file for rails.
+
+Researched answer: 
+
+Its a library or snippet of code functionality. A little off.
 
 3. What is a relational database? Are there other kinds of databases?
 
-Your answer:
+Your answer: 
+
+Not a term Im really familiar with. Yes there is another type but its escapes me 
 
 Researched answer:
+
+ A type of database wit similar attributes that stores data and relate it to other databases
 
 4. What are primary keys? Why purpose does a primary key serve?
 
-Your answer:
+Your answer: 
+
+Unique identifiers (ID). Its purpose is to provide each instance with a unique identifier or key.
 
 Researched answer:
+
+Unique Identifiers in relational databases.
 
 5. What are the five HTTP verbs? What is each verb's corresponding CRUD action?
 
-Your answer:
+Your answer: I know CRUD is Create, Read, Update, Delete. I want to say it to_push for the update other than that i cannot recall.
 
-Researched answer:
+Researched answer: POST: Create, GET: Read, PUT: Update, PATCH: Update, DELETE: Delete
 
 ## Looking Ahead: Terms for Next Week
 
