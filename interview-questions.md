@@ -52,12 +52,12 @@ Researched answer: POST: Create, GET: Read, PUT: Update, PATCH: Update, DELETE: 
 
 Research and define the following terms to the best of your ability.
 
-1. Model validations:
+1. Model validations: Use to ensure that only clean and valid data gets saved into the database. 
 
-2. RESTful routes:
+2. RESTful routes: Provides a mapping between HTTP verbs, controller actions, and CRUD operations in an application. Index, new, create, show, edit, update, and destroy.
 
-3. ERB:
+3. ERB: (Embedded Ruby) - "Ruby Land" a way to code HTML in Ruby.
 
-4. Params:
+4. Params: Params uses to pass code into the controller. like a key:value pair.
 
-5. API:
+5. API: (Application Programming Interface) - An application that transmits data in the form of JSON.  This is the backend part of the website.
